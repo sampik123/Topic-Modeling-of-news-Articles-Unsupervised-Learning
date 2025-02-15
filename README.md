@@ -1,1 +1,1 @@
-# Topic-Modelling-of-news-Articles
+# Topic-Modeling-of-news-Articles
